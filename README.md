@@ -29,4 +29,4 @@ This project estimates the 1-day risk of loss for a 4-stock portfolio (Apple, Mi
 ## Let's Connect
 Feel free to reach out if you’d like to collaborate or chat about finance, data, or risk analytics!
 
-📬 [Your email or LinkedIn here]
+📬 https://www.linkedin.com/in/kashish-rangwani-/
